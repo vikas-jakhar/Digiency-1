@@ -463,6 +463,12 @@
     transition: all 0.3s linear;
 }
 
+.number-box::-webkit-outer-spin-button,
+.number-box::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
 .send-btn:hover {
     background-color: whitesmoke;
     color: #FF5300;
