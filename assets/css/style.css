@@ -552,6 +552,11 @@
     width: 100%;
 }
 
+.img-11{
+    height: 90%;
+    width: 131%;
+}
+
 @media (min-width:768px) {
     .font-s-md-16 {
         font-size: 16px;
